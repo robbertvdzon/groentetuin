@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489016223965",
+    "project_id": "groentetuin-f9990",
+    "storage_bucket": "groentetuin-f9990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489016223965:android:cd78a8a55c207982339334",
+        "android_client_info": {
+          "package_name": "com.example.groentetuin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489016223965-gh8qfbo7k3igqn01fmvnnpemihq18vvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4oYfNicMvskItMTTQfrsQBejnzG9nMpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489016223965-gh8qfbo7k3igqn01fmvnnpemihq18vvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
